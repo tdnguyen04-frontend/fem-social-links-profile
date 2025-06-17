@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot/GIF
 
-![](./Screenshot 1.png)
+![](./assets/demo/Screenshot%201.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://jovial-pixie-538a58.netlify.app/)
 
 ## My process
 
